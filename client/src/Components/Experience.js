@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import ResumePage1 from '../Images/Resume-Page1.png';
+import ResumePage1 from '../Images/Resume-Page1 - no address.png';
 import ResumePage2 from '../Images/Resume-Page2.png';
 
 // Sets Up The Experience Page Component
