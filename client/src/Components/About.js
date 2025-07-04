@@ -24,12 +24,11 @@ function About() {
                     <div id='leftColumn'>
                         <h4><span className='subContainerTitles'>Name : </span> Christian Dow</h4>
                         <h4><span className='subContainerTitles'>Age : </span> {(new Date().getFullYear() - 1994)} Years</h4>
-                        <h4><span className='subContainerTitles'>Email : </span> ChristianRDow@Gmail.com</h4>
+                        <h4><span className='subContainerTitles'>Email : </span> 802ScubaFish@Gmail.com</h4>
                     </div>
                     <div id='rightColumn'>
-                        <h4><span className='subContainerTitles'>Phone : </span> (802) 735-3393</h4>
-                        <h4><span className='subContainerTitles'>Address : </span> Milton, Vermont 05468</h4>
-                        <h4><span className='subContainerTitles'>Hobby : </span> Photography, Auto-X,<br />Hiking, and Videogaming</h4>
+                        <h4><span className='subContainerTitles'>Location : </span> VT</h4>
+                        <h4><span className='subContainerTitles'>Hobby : </span> Photography, Auto-X,<br />Hiking, and Water Activities</h4>
                     </div>
                 </div>
 
